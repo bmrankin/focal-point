@@ -1,29 +1,8 @@
-# focal-point
+# FocalPOINT
 
-## Project setup
-```
-yarn install
-```
+Calculator for finding the anchor height for desired optimal focal point when hanging art on a wall.
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
-
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Tech Stack
+- [Vue.js](https://vuejs.org/)
+- [Vuetify](https://vuetifyjs.com/)
+- [Two.js](https://two.js.org/)
