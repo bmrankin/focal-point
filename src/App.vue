@@ -13,7 +13,7 @@
     <v-footer height="auto">
       <v-spacer />
       <div>
-        <p>Copyright 2019 - <a href="https://twitter.com/bmrankin">Bryan Rankin</a> |  v 0.2.0 | <a href="https://github.com/bmrankin/focal-point" target="_blank" rel="noopener">Project on Github</a></p>
+        <p>Copyright 2019 - <a href="https://twitter.com/bmrankin">Bryan Rankin</a> |  v 0.3.0 | <a href="https://github.com/bmrankin/focal-point" target="_blank" rel="noopener">Project on Github</a></p>
       </div>
       <v-spacer />
     </v-footer>
